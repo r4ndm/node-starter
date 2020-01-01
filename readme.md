@@ -18,7 +18,7 @@ Steps to start from scratch in an empty folder:
 1. eslint:
     1. npm install eslint --save-dev
     2. npm install @typescript-eslint/parser @typescript-eslint/eslint-plugin --save-dev
-    3. create the .eslintrc file: npx eslint --init
+    3. create the .eslintrc file: npx eslint --init. Here you also specify to use the typescript parser
     4. add lint script in package.json
     5. optional: vscode integration with vscode eslint plugin and setting autofix (not done here)
 1. edit package.json to add scripts - build, start, lint, ...
