@@ -1,7 +1,7 @@
 
 ## Node.js starter template project
 
-Basic/minimal set of files for a Node.js project.
+Basic/minimal set of files for a Node.js project. Use as a template to start new Node.js projects using Node, Typescript, VSCode, ESLint and Prettier.
 
 Steps to start from scratch in an empty folder:
 
